@@ -1,8 +1,8 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+title: Spotfg
+subtitle: :苟利国家生死以,岂因祸福避趋之!
+#welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+description: 富强民主文明和谐自由平等、公正法治爱国敬业诚信友善.
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://vno.onevcat.com"
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: https://m.weibo.cn/u/2213041244
+    github: https://github.com/7134g
+    #twitter: onevcat
+    #gplus: 107108267983477358170
+    mail: 987712030@qq.com
 
 # Google Analytics
 ga:

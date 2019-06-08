@@ -37,8 +37,8 @@ paginate_path: "page/:num/"
     
 # Social
 social:
-    weibo: https://weibo.com/u/1500038275
-    github: https://github.com/7134g
+    weibo: u/1500038275
+    github: 7134g
     mail: 987712030@qq.com
 
 # Google Analytics

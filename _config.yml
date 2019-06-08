@@ -39,8 +39,6 @@ paginate_path: "page/:num/"
 social:
     weibo: https://weibo.com/u/1500038275
     github: https://github.com/7134g
-    #twitter: onevcat
-    #gplus: 107108267983477358170
     mail: 987712030@qq.com
 
 # Google Analytics

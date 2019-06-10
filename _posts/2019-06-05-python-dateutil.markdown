@@ -1,6 +1,6 @@
 ---
 layout: post
-title: python分享一个时间模块dateutil，可转化大多数时间格式
+title: python分享：格式化时间模块dateutil
 date: 2019-04-05 20:13:55.000000000 +09:00
 ---
 

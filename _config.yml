@@ -1,11 +1,11 @@
 # Basic
 title: Spotfg
-subtitle: 苟利国家生死以,岂因祸福避趋之!
+subtitle: 无尽的智慧源自于秃头!
 #welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: 富强民主文明和谐自由平等、公正法治爱国敬业诚信友善.
-creator: <a href="http://onev.cat">@onevcat</a>
+description: Infinitie knowledge is upon no-gair.
+creator: <a href="http://spotfg.top">@spotfg</a>
 
-url: "http://vno.onevcat.com"
+url: "http://www.spotfg.top"
 
 permalink: /:year/:month/:title/
 
@@ -33,8 +33,8 @@ paginate_path: "page/:num/"
 # Comment
 #comment:
 #    disqus: vno-jekyll
-    # duoshuo: 
-    
+    # duoshuo:
+
 # Social
 social:
     weibo: u/1500038275
